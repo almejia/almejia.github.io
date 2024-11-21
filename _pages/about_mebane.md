@@ -1,0 +1,7 @@
+## Associate Professor
+## Department of Mechanical and Aerospace Engineering
+
+David Mebane is associate professor of mechanical and aerospace engineering and the leader of the Energy Systems and Materials Simulation (ESMS) group at WVU.
+
+David Mebane is a computational materials scientist with M.S. (2004) and Ph.D. (2007) degrees from the Georgia Institute of Technology. His Ph.D. work focused on models of patterned and thin film mixed ionic-electronic conducting cathodes in solid oxide fuel cells. Upon graduating from Georgia Tech in 2007 he began two and a half years of study in solid state ionics at the Max Planck Institute for Solid State Research in Stuttgart, largely supported by a National Science Foundation postdoctoral fellowship. Mebane's time at Max Planck was followed by an ORISE Postdoctoral Fellowship at the National Energy Technology Laboratory in Morgantown. While at NETL, Mebane worked on the Department of Energy's Carbon Capture Simulation Initiative, which focused on multi-scale modeling — including advanced methods in uncertainty quantification — in design and scale-up of power plants with post-combustion carbon dioxide capture. 
+Mebane started at West Virginia in 2012, and was promoted to Associate Professor with Tenure in 2018. His work in high temperature electrocatalysis and multi-scale modeling through data-driven methods is supported by the National Science Foundation and the Department of Energy along with other grant-making organizations. Mebane holds an ORISE Faculty Fellowship at NETL.
