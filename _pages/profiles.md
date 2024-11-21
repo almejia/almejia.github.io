@@ -23,6 +23,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>ESB 731</p>
-      <p>1374 Evansdale Drive/p>
+      <p>1374 Evansdale Drive</p>
       <p>Morgantown, WV 26506-6070</p>
 ---

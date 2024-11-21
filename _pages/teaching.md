@@ -16,7 +16,7 @@ teaching goal is to share and transmit my knowledge and experience, while foster
 curiosity and helping students become independent learners, capable of applying their skills and
 understanding to pursue their personal academic and intellectual goals.
 
-# Teaching Philosophy
+## Teaching Philosophy
 
 I view teaching and learning as a dynamic student-teacher interaction, where both
 contribute to a mutual learning process. I have found that one of the best ways to gauge my own
@@ -39,8 +39,12 @@ located throughout Queretaro, Mexico. This experience allowed me to engage with 
 projects and provided valuable insights into mentoring students in practical engineering
 environments.
 
-# Teaching Interests
+## Teaching Interests
 
 I am interested in teaching courses that align with my previous experience, such as
 computer-aided design, numerical and statistical methods, engineering programming,
 computational fluid dynamics, aerodynamics, and materials science.
+
+## MAE 316 Analysis of Engineering Systems
+
+Analytical, numerical, and computational techniques to analyze and solve engineering problems. Mathematical modeling, solution strategies, and analysis of results. Statistical techniques including probability distribution functions, regression analysis, and curve fitting.
