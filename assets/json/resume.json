@@ -31,24 +31,33 @@
       "endDate": "2025-01-01",
       "summary": "Constructing models of ceria-based electrolysis cells using INL’s MOOSE package. Implementing sequential Monte Carlo samplers for estimation of parameters from experiment.",
       "highlights": ["Computational modeling"]
+    },
+    {
+      "name": "Thermodynamics and Energy Institute, Universidad Pontificia Bolivariana",
+      "position": "Researcher",
+      "url": "https://investigacion.upb.edu.co/es/organisations/grupo-de-energ%C3%ADa-y-termodin%C3%A1mica-get-dget",
+      "startDate": "2014-08-01",
+      "endDate": "2015-03-01",
+      "summary": "Research in renewable energy systems and design of portable wind turbines.",
+      "highlights": ["Computational aided design"]
     }
   ],
-  "volunteer": [
+  "internships": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Aerospace DesignWorks Ltd",
+      "location": "Bogota, Colombia",
+      "position": "Assistant Design and Drafting Engineering Intern",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2014-01-01",
+      "endDate": "2014-04-01",
+      "summary": "Assisted engineering tasks in technical aircraft interior design drawings.",
+      "highlights": ["Computer aided design modifications using AutoCAD software.", "Stress analysis using SolidWorks and CATIA software."]
     }
   ],
   "education": [
     {
       "institution": "West Virginia University, Morgantown, West Virginia",
-      "location": "Morgantown, West Virginia",
+      "location": "Morgantown, WV",
       "url": "https://www.wvu.edu/",
       "area": "Materials Science and Engineering",
       "studyType": "Ph.D.",
@@ -59,7 +68,7 @@
     },
     {
       "institution": "West Virginia University, Morgantown, West Virginia",
-      "location": "Morgantown, West Virginia",
+      "location": "Morgantown, WV",
       "url": "https://www.wvu.edu/",
       "area": "Aerospace Engineering",
       "studyType": "M.Sc.",
@@ -91,18 +100,11 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Aircraft Private Pilot (UAEAC)",
+      "date": "2008-12-01",
+      "issuer": "Academia Antiqueña de Aviacion",
+      "url": "https://aviacion.edu.co",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -111,7 +113,7 @@
       "publisher": "ChemRxiv",
       "releaseDate": "2024-02-06",
       "url": "https://chemrxiv.org/engage/chemrxiv/article-details/65baa4409138d23161251797",
-      "summary": "It presents an experimental-computational framework that predicts which GBs in a polycrystalline electrolyte likely facilitate ionic conductivity. We developed a thermodynamic phase-field modeling framework and applied it to a model high-solute-content oxygen electrolyte Gd0.25Ce0.75O2-δ, wherein the microscopically measured GB-to-GB variability in defect concentrations was used to predict the GB-to-GB variability in cross-GB ionic conduction."
+      "summary": "It presents an experimental-computational framework that predicts which GBs in a polycrystalline electrolyte likely facilitate ionic conductivity. We developed a thermodynamic phase-field modeling framework and applied it to a model high-solute-content oxygen electrolyte Gd<sub>0.25</sub>Ce<sub>0.75</sub>O<sub>2-δ</sub>, wherein the microscopically measured GB-to-GB variability in defect concentrations was used to predict the GB-to-GB variability in cross-GB ionic conduction."
     },
     {
       "name": "A New Data-Driven Interacting-Defect Model Describing Nanoscopic Grain Boundary Compositions in Ceramics",
@@ -183,7 +185,7 @@
   ],
   "projects": [
     {
-      "name": "Modeling High-Temperature CO2 Electrolysis",
+      "name": "Modeling High-Temperature CO<sub>2</sub> Electrolysis",
       "summary": "Constructing models of ceria-based electrolysis cells using INL’s MOOSE package. Implementing sequential Monte Carlo samplers for estimation of parameters from experiment.",
       "highlights": ["Numerical modeling", "Bayesian statistics"],
       "startDate": "2018-01-01",
