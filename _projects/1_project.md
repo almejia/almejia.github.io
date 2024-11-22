@@ -8,17 +8,24 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project is part of my doctorate degree research.
+It involves modeling a working 2D Solid Oxide Electrolysis Cell for CO<sub>2</sub> reduction.
+The model uses defect thermodynamics to determine the near-surface chemistry of dopants, oxygen vacancies and electrons.
 
-Semi-grand potential $$\\omega$$
+The model derivation relies on Variational Calculus as follows:
 
-$$\\omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int (W(y,v,q,T)+\frac{1}{2}\beta\_y|\nabla y|\^2+F\phi(2n\_vv-n\_yy-n\_qq))dV$$
+Semi-grand potential $$\omega$$
+
+$$\omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int (W(y,v,q,T)+\frac{1}{2}\beta _y|\nabla y|^2+F\phi(2n_vv-n_yy-n_qq))dV$$
 
 Euler-Lagrange Equations:
 
-$$\2n\_{yy}f\_{yy}+n\_{yv}f\_{yv}v+n\_{yq}f\_{yq}q+n\_yRT(\ln\_frac{y}{1-y-q} )-\beta\_y\nabla\^2y-F\phi n\_y=0$$
+$$\2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT(\ln \frac{y}{1-y-q} )-\beta _y\nabla^2y-F\phi n_y=0$$
+$$\2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT(\ln \frac{v}{1-v} )-\beta _v\nabla^2v+2F\phi n_v=0$$
+$$\2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT(\ln \frac{q}{1-y-q} )-\beta _q\nabla^2q-F\phi n_q=0$$
+$$-\epsilon _r\epsilon _0\nabla ^2\phi+F(2n_vv-n_yy-n_qq)=0$$
+
+For a kinetic model for the electrochemical potentials ($$\tilde{\mu}$$):
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -43,18 +50,15 @@ Say you wanted to write a bit about your project before you posted the rest of t
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Mesh.jpg" title="2D mesh" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Coverage.jpg" title="Coverage plot" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: an approximation of the 2D domain with a refined mesh for the surface. Right, Sequential Monte Carlo results showing the data coverage by the 'best' models.
 </div>
 
 
