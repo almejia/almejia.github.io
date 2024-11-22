@@ -33,6 +33,15 @@
       "highlights": ["Computational modeling"]
     },
     {
+      "name": "Department of Mechanical and Aerospace Engineering, West Virginia University",
+      "position": "Graduate Research Assistant",
+      "url": "https://davidmebane.faculty.wvu.edu/group",
+      "startDate": "2015-12-01",
+      "endDate": "2024-05-04",
+      "summary": "Code development for Bayesian model calibrations. Coupling with gPROMS software for dynamic virus modeling analysis.",
+      "highlights": ["C++"]
+    },
+    {
       "name": "Thermodynamics and Energy Institute, Universidad Pontificia Bolivariana",
       "position": "Researcher",
       "url": "https://investigacion.upb.edu.co/es/organisations/grupo-de-energ%C3%ADa-y-termodin%C3%A1mica-get-dget",
@@ -89,13 +98,13 @@
       "courses": ["Aerodynamics"]
     }
   ],
-  "awards": [
+  "conferences": [
     {
-      "title": "Prize in Physics",
-      "date": "2024-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "23rd International Conference on Solid State Ionics (DT25: Mixed Conductors II)",
+      "date": "2022-07-18",
+      "awarder": "Boston, MA",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Novel Model-Building Tools for the Development of Near-Surface MIEC Emulators for HT CO<sub>2</sub> Electrolysis Cells"
     }
   ],
   "certificates": [
@@ -190,7 +199,7 @@
       "highlights": ["Numerical modeling", "Bayesian statistics"],
       "startDate": "2018-01-01",
       "endDate": "2025-01-01",
-      "url": "https://example.com"
+      "url": "https://almejia.github.io/projects/1_project/"
     }
   ]
 }

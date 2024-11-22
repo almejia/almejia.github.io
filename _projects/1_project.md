@@ -10,22 +10,26 @@ related_publications: true
 
 This project is part of my doctorate degree research.
 It involves modeling a working 2D Solid Oxide Electrolysis Cell for CO<sub>2</sub> reduction.
-The model uses defect thermodynamics to determine the near-surface chemistry of dopants, oxygen vacancies and electrons.
+The model uses defect thermodynamics to determine the near-surface chemistry of dopants (Ce<sub>Gd</sub>), oxygen vacancies (V<sub>O</sub>) and electrons (Ce<sup>3+</sup>) point defects.
 
 The model derivation relies on Variational Calculus as follows:
 
-Semi-grand potential $$\omega$$
+Semi-grand potential $$\Omega$$
 
-$$\omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int (W(y,v,q,T)+\frac{1}{2}\beta _y|\nabla y|^2+F\phi(2n_vv-n_yy-n_qq))dV$$
+$$\Omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int (W(y,v,q,T)+\frac{1}{2}\beta _y|\nabla y|^2+\frac{1}{2}\beta _v|\nabla v|^2+\frac{1}{2}\beta _q|\nabla q|^2-\frac{1}{2}\epsilon _r\epsilon 0|\nabla \phi|^2+F\phi(2n_vv-n_yy-n_qq))dV$$
 
 Euler-Lagrange Equations:
 
-$$\2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT(\ln \frac{y}{1-y-q} )-\beta _y\nabla^2y-F\phi n_y=0$$
-$$\2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT(\ln \frac{v}{1-v} )-\beta _v\nabla^2v+2F\phi n_v=0$$
-$$\2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT(\ln \frac{q}{1-y-q} )-\beta _q\nabla^2q-F\phi n_q=0$$
-$$-\epsilon _r\epsilon _0\nabla ^2\phi+F(2n_vv-n_yy-n_qq)=0$$
+$$2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT(\ln \frac{y}{1-y-q} )-\beta _y\nabla^2y-F\phi n_y=0$$
+$$2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT(\ln \frac{v}{1-v} )-\beta _v\nabla^2v+2F\phi n_v=0$$
+$$2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT(\ln \frac{q}{1-y-q} )-\beta _q\nabla^2q-F\phi n_q=0$$
+
+$$ -\epsilon _r\epsilon _0\nabla ^2\phi+F(2n_vv-n_yy-n_qq)=0$$
 
 For a kinetic model for the electrochemical potentials ($$\tilde{\mu}$$):
+
+$$u_qn_qq\nabla^2\mu _q=0$$
+$$u_vn_vv\nabla^2\mu _v=0$$
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
