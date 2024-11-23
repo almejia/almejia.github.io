@@ -16,13 +16,13 @@ The model derivation relies on Variational Calculus as follows:
 
 Semi-grand potential $$\Omega$$
 
-$$\Omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int (W(y,v,q,T)+\frac{1}{2}\beta _y|\nabla y|^2+\frac{1}{2}\beta _v|\nabla v|^2+\frac{1}{2}\beta _q|\nabla q|^2-\frac{1}{2}\epsilon _r\epsilon 0|\nabla \phi|^2+F\phi(2n_vv-n_yy-n_qq))dV$$
+$$\Omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int_{\forall} (W(y,v,q,T)+\frac{1}{2}\beta _y|\nabla y|^2+\frac{1}{2}\beta _v|\nabla v|^2+\frac{1}{2}\beta _q|\nabla q|^2-\frac{1}{2}\epsilon _r\epsilon 0|\nabla \phi|^2+F\phi(2n_vv-n_yy-n_qq))dV$$
 
 Euler-Lagrange Equations:
 
-- $$ 2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT(\ln \frac{y}{1-y-q} )-\beta _y\nabla^2y-F\phi n_y=0 $$
-- $$ 2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT(\ln \frac{v}{1-v} )-\beta _v\nabla^2v+2F\phi n_v=0 $$
-- $$ 2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT(\ln \frac{q}{1-y-q} )-\beta _q\nabla^2q-F\phi n_q=0 $$
+- $$ 2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT\left(\ln \frac{y}{1-y-q} \right)-\beta _y\nabla^2y-F\phi n_y=0 $$
+- $$ 2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT\left(\ln \frac{v}{1-v} \right)-\beta _v\nabla^2v+2F\phi n_v=0 $$
+- $$ 2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT\left(\ln \frac{q}{1-y-q} \right)-\beta _q\nabla^2q-F\phi n_q=0 $$
 - $$ -\epsilon _r\epsilon _0\nabla ^2\phi+F(2n_vv-n_yy-n_qq)=0 $$
 
 For a kinetic model for the electrochemical potentials ($$\tilde{\mu}$$):
@@ -51,7 +51,7 @@ Inc: $$\ce{ CO_2-O + V^{..}_O + 2Ce^'_{Ce} <=> CO + O^x_O + 2Ce^x_{Ce} } $$
 
 Therefore, the reaction model can be described with the adsorption and incorporation intermediate reactions:
 
-- $$r_{ads}=K_{ads}\left[p_{CO_2}(1-v-\theta)-\frac{\theta}{\kappa _a{ads}}\right] $$
+- $$r_{ads}=K_{ads}\left[p_{CO_2}(1-v-\theta)-\frac{\theta}{\kappa _{ads}}\right] $$
 - $$r_{inc}=K_{inc}\left[\theta vq^2-\frac{p_{CO}(1-v-\theta)^2(1-q)^2}{\kappa _{inc}}\right] $$
 
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project under construction
+title: Project under construction
 description: another project
 img: assets/img/9.jpg
 importance: 2

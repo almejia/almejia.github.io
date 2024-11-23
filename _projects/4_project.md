@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: Flights
+title: Flights
+description: US/Colombia
 img:
 importance: 3
 category: fun

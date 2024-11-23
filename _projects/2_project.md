@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: conduction heat transfer
+title: Conduction Heat Transfer
+description: simple plate
 img: assets/img/Parabolic_n_10.bmp
 importance: 2
 category: work
