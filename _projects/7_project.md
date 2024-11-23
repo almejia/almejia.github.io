@@ -1,36 +1,24 @@
 ---
 layout: page
-title: project 7
-description: Defect modeling
-img: assets/img/4.jpg
+title: Defect Modeling
+description: GB profiles
+img: assets/img/Coverage_GB.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-This project focused on modeling GdCeO<sub>2</sub> GB defect profiles using Gaussian Processes, and estimate GB conductivities.
+Project under construction...
+
+This project focused on modeling experimental GdCeO<sub>2</sub> GB defect profiles using Gaussian Processes, and estimate the GB conductivities.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/FyvProfiles.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Defect interaction energy profiles.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.

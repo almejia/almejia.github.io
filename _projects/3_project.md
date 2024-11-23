@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: SMART autonomous robot
+description: redesign
+img: assets/img/SMART_Redesign_Model.png
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
+
+Under construction...
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
