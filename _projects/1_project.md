@@ -51,6 +51,9 @@ Inc: $$\ce{ CO_2-O + V^{..}_O + 2Ce^'_{Ce} <=> CO + O^x_O + 2Ce^x_{Ce} } $$
 
 Therefore, the reaction model can be described with the adsorption and incorporation intermediate reactions:
 
+- $$r_{ads}=K_{ads}(p_{CO_2}(1-v-\theta)-\frac{\theta}{\kappa _a{ads}}) $$
+- $$r_{inc}=K_{inc}(\theta vq^2-\frac{p_{CO}(1-v-\theta)^2(1-q)^2}{\kappa _{inc}}) $$
+
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Mesh.jpg" title="2D mesh" class="img-fluid rounded z-depth-1" %}
