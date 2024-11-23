@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "github",
+        "username": "almejia",
+        "url": "https://github.com/almejia"
       }
     ]
   },
@@ -72,7 +72,7 @@
       "studyType": "Ph.D.",
       "startDate": "2018-01-01",
       "endDate": "2024-08-01",
-      "score": "5",
+      "score": "4.0 GPA",
       "courses": ["Microscopy of Materials"]
     },
     {
@@ -83,7 +83,7 @@
       "studyType": "M.Sc.",
       "startDate": "2015-08-01",
       "endDate": "2017-08-01",
-      "score": "5",
+      "score": "3.7 GPA",
       "courses": ["Numerical Solution of PDEs"]
     },
     {
@@ -94,17 +94,14 @@
       "studyType": "B.Sc.",
       "startDate": "2008-01-01",
       "endDate": "2014-11-30",
-      "score": "5",
+      "score": "4.2/5",
       "courses": ["Aerodynamics"]
     }
   ],
   "conferences": [
     {
-      "title": "23rd International Conference on Solid State Ionics (DT25: Mixed Conductors II)",
-      "date": "2022-07-18",
-      "awarder": "Boston, MA",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Novel Model-Building Tools for the Development of Near-Surface MIEC Emulators for HT CO<sub>2</sub> Electrolysis Cells"
+      "citation": "Novel Model-Building Tools for the Development of Near-Surface MIEC Emulators for HT CO<sub>2</sub> Electrolysis Cells. 23rd International Conference on Solid State Ionics (DT25: Mixed Conductors II). Boston, MA",
+      "date": "2022-07-18"
     }
   ],
   "certificates": [

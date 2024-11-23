@@ -20,25 +20,17 @@ $$\Omega(y,v,q,\phi;T)=\Phi (y(0),v(0),q(0),T)+\int (W(y,v,q,T)+\frac{1}{2}\beta
 
 Euler-Lagrange Equations:
 
-$$2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT(\ln \frac{y}{1-y-q} )-\beta _y\nabla^2y-F\phi n_y=0$$
-$$2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT(\ln \frac{v}{1-v} )-\beta _v\nabla^2v+2F\phi n_v=0$$
-$$2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT(\ln \frac{q}{1-y-q} )-\beta _q\nabla^2q-F\phi n_q=0$$
-
-$$ -\epsilon _r\epsilon _0\nabla ^2\phi+F(2n_vv-n_yy-n_qq)=0$$
+- $$ 2n_{yy}f_{yy}y+n_{yv}f_{yv}v+n_{yq}f_{yq}q+n_yRT(\ln \frac{y}{1-y-q} )-\beta _y\nabla^2y-F\phi n_y=0 $$
+- $$ 2n_{vv}f_{vv}v+n_{yv}f_{yv}y+n_{vq}f_{vq}q+n_vRT(\ln \frac{v}{1-v} )-\beta _v\nabla^2v+2F\phi n_v=0 $$
+- $$ 2n_{qq}f_{qq}q+n_{yq}f_{yq}y+n_{vq}f_{vq}v+n_qRT(\ln \frac{q}{1-y-q} )-\beta _q\nabla^2q-F\phi n_q=0 $$
+- $$ -\epsilon _r\epsilon _0\nabla ^2\phi+F(2n_vv-n_yy-n_qq)=0 $$
 
 For a kinetic model for the electrochemical potentials ($$\tilde{\mu}$$):
 
-$$u_qn_qq\nabla^2\mu _q=0$$
-$$u_vn_vv\nabla^2\mu _v=0$$
+- $$u_qn_qq\nabla^2\mu _q=0$$
+- $$u_vn_vv\nabla^2\mu _v=0$$
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,9 +41,15 @@ To give your project a background in the portfolio page, just add the img tag to
     Solid Oxide Electrolysis Cell layout.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+The electrochemical surface reaction for CO<sub>2</sub> reduction is given as follows:
+
+$$\ce { CO_2 + V^{..}_O + 2Ce^'_{Ce} <=> CO + O^x_O + 2Ce^x_{Ce} } $$
+
+Ads: $$\ce { CO_2 + O^x_O <=> CO_2-O } $$
+
+Inc: $$\ce{ CO_2-O + V^{..}_O + 2Ce^'_{Ce} <=> CO + O^x_O + 2Ce^x_{Ce} } $$
+
+Therefore, the reaction model can be described with the adsorption and incorporation intermediate reactions:
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
