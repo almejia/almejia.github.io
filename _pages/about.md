@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ESB 241</p>
-    <p>1374 Evansdale Drive</p>
-    <p>Morgantown, WV 26506-6070</p>
+    <p>Universidad de Antioquia</p>
+    <p>Km 6 Via Rionegro-La Ceja</p>
+    <p>El Carmen de Viboral, Antioquia</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

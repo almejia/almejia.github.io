@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Project under construction
-description: another project
+title: Harappa Modeling
+description: Modeling solutions
 img: assets/img/9.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+When data-driven models need to be interpretable, predictive, and fast, it means moving beyond the standard approaches.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Harappa Modeling is a collective that takes on your toughest problems, building fast models that reflect fundamentals of the physical systems they represent.
 
     ---
     layout: page
