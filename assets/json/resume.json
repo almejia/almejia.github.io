@@ -24,11 +24,27 @@
   },
   "work": [
     {
+      "name": "Universidad de Antioquia",
+      "position": "Professor",
+      "url": "https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ingenieria/estudiar-facultad/programas-virtuales-regionalizados/pregrados-regiones/ingenieria-aeroespacial/!ut/p/z1/5ZVLk5pAEMe_Ch446gxPITeirEFdlY2PlctWCyNOChh2GDTJp8-guey6q5va8hQ4MI9f_7urp-lBEXpEUQF7moKgrIBMzteR_TQJLV_Te3g8vdNsHM77o6UTWOa4b6PVEXDcnq55Jh7jkWZhL_Rnk_m0N-sPdRR9xB6_83j4Y_YXgOiy_BJFKCpjmqA1WOZ2Axu7bYFO2mY3dtqgQ9ImlmPZ0I2JbkFDx4UoxQ6tS8YFZHVCQMVQvZztWE5O47qgCSSkUiCGpBUbLXBzGkOlYlqkpKCEHxcTiZJK1AkFrpBCyUDZQlxnAhIVl5ylHHKolJwlkDWCyp5yUUOm_FI4SY-HRX9DwqqGJpKWw0bntEnO3SlAOCNVCTGFTMUxK4TcTlgTfU6KOgNBeLMjZFg0ZwVllcx2dOlAvBm-DOhT8zUwGPkODu-Dr8PJ5M63B2cKg-FDD4emsVxi1w20afc14BimhUM86uu2q-nB5AyYBoaPQ3dizYxBoJtd4y9wqWqv1c1a1l333bqba2i1p-SAFgXjufyPvv9jmX275sHAn_RwSX7k2NZN5e9vGb1Mjn1beeOm8sPbJkdW903lu5-UH15r-fJOoj-enyNPtuKma_0U6PE_7MUyT2nGNqdL2is2hpOiiJMt4YR3ai6Xd0KU1RcVq_hwOHRSxtKMdGKWq_gtkx2rZCJfkqjMF4tF7hj2gy9f5zDf7tL86d43rDc_2T5fOZXXav0B664Wwg!!/?1dmy&urile=wcm%3apath%3a/PortalUdeA/asPortalUdeA/asHomeUdeA/Unidades+Acad%21c3%21a9micas/Ingenier%21c3%21ada/Estudiar+en+la+Facultad/Programas+modalidad+virtual+y+regionalizados/Pregrados+en+regiones/Ingenier%21c3%21ada+Aeroespacial/Contenido/asMenuLateral/acerca+programa",
+      "startDate": "2025-06-17",
+      "summary": "Professor of Aerospace Engineering.",
+      "highlights": ["Teaching and Research"]
+    },
+    {
+      "name": "Harappa Modeling",
+      "position": "Developer",
+      "url": "https://www.harappamodeling.tech",
+      "startDate": "2025-04-01",
+      "summary": "Constructing models using Gaussian Processes.",
+      "highlights": ["Computational modeling"]
+    },
+    {
       "name": "Energy Systems and Materials Simulation Group, West Virginia University",
       "position": "Postdoctoral Fellow",
       "url": "https://davidmebane.faculty.wvu.edu/group",
       "startDate": "2024-10-01",
-      "endDate": "2025-01-01",
+      "endDate": "2025-03-31",
       "summary": "Constructing models of ceria-based electrolysis cells using INL’s MOOSE package. Implementing sequential Monte Carlo samplers for estimation of parameters from experiment.",
       "highlights": ["Computational modeling"]
     },

@@ -1,14 +1,9 @@
 github_users:
   - almejia
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
   - ESMS-Group-Public/FoKL-GPy
-  - jekyll/jekyll
+  - almejia/elephant
   - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
