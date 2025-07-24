@@ -16,6 +16,15 @@ teaching goal is to share and transmit my knowledge and experience, while foster
 curiosity and helping students become independent learners, capable of applying their skills and
 understanding to pursue their personal academic and intellectual goals.
 
+## Numerical Methods
+This course provides an introduction to numerical techniques used to solve mathematical problems that cannot be addressed analytically. Topics include root finding, interpolation, numerical differentiation and integration, solutions of linear and nonlinear systems, and numerical solutions of ordinary differential equations. Emphasis is placed on algorithm development, error analysis, and implementation using computational tools such as MATLAB or Python.
+
+## Flight Dynamics
+This course introduces the principles of flight dynamics, focusing on the motion of aircraft in response to control inputs and external forces. Topics include aircraft performance, stability, and control; equations of motion; aerodynamic forces and moments; linear and nonlinear models; and dynamic response analysis. Students will analyze flight behavior using mathematical models and simulation tools to understand how design and control affect aircraft performance and handling qualities.
+
+## Flight Controls 
+This course covers the fundamentals of aircraft flight control systems, focusing on how control surfaces and actuators are used to manage aircraft attitude and trajectory. Topics include control theory applied to aerospace systems, feedback and stability analysis, flight control laws (e.g., PID, state-space, and modern control), sensors and actuators, and fly-by-wire systems. Emphasis is placed on modeling, design, and simulation of flight control systems to ensure stability, performance, and safety.
+
 ## Teaching Philosophy
 
 I view teaching and learning as a dynamic student-teacher interaction, where both

@@ -1,11 +1,11 @@
 github_users:
-  - torvalds
+  - almejia
   - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - ESMS-Group-Public/FoKL-GPy
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery

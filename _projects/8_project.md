@@ -13,10 +13,7 @@ When data-driven models need to be interpretable, predictive, and fast, it means
 Harappa Modeling is a collective that takes on your toughest problems, building fast models that reflect fundamentals of the physical systems they represent.
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Modeling
     ---
 
 <div class="row">
@@ -39,12 +36,10 @@ Harappa Modeling is a collective that takes on your toughest problems, building 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    In many scientific and engineering domains, physical models - based on first-principles or mechanistic assumptions - often leave out complex, unknown, or poorly understood phenomena.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Harappa Modeling introduces a hybrid strategy that augments these models using Gaussian Processes (GPs) to capture and correct the residuals left by incomplete physics.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
