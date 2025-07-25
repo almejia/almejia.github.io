@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Shares of electric vertical takeoff and landing (eVTOL) manufacturers [Joby Aviation]https://www.jobyaviation.com/ ([JOBY](https://finance.yahoo.com/quote/JOBY/)) and Archer Aviation rose in the stock market after investment bank Needham assigned both firms a buy rating. Joby increased 12.7% to $6.33 per share, while Archer surged over 16% to $5.13. Notably, even though Joby experienced a slight decline in premarket trading on November 20, Archer managed to maintain its upward momentum.
+Shares of electric vertical takeoff and landing (eVTOL) manufacturers [Joby Aviation](https://www.jobyaviation.com/) ([JOBY](https://finance.yahoo.com/quote/JOBY/)) and Archer Aviation rose in the stock market after investment bank Needham assigned both firms a buy rating. Joby increased 12.7% to $6.33 per share, while Archer surged over 16% to $5.13. Notably, even though Joby experienced a slight decline in premarket trading on November 20, Archer managed to maintain its upward momentum.
